@@ -1,3 +1,4 @@
+// SPDX-License-Identifier:<SPDX-License>
 pragma solidity >= 0.7.0 < 0.9.0;
 contract studentClass{
   uint public studentCount = 0;
